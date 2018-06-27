@@ -1,0 +1,16 @@
+{
+    "name": "pickhjm/jyshop",
+    "description": "jyshop",
+    "type": "project",
+    "require": {
+        "topthink/think": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huangjiming",
+            "email": "hjm353973814@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
